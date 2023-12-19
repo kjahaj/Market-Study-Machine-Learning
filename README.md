@@ -18,6 +18,6 @@ This project conducts a regression analysis on a dataset containing information 
 
 Install dependencies using:
 
-pip install pandas
-pip install matplotlib
+pip install pandas  
+pip install matplotlib  
 pip install numpy
